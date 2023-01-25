@@ -3,11 +3,17 @@
 I'm web developer!
 
 🌱 I’m currently learning -> Laravel & React Js;
+
 🔭 I’m currently working on varius website and web Applications, like freelance;
+
 👯 I’m looking to collaborate on everyone devs;
+
 🤔 I’m looking for help with who needed;
+
 💬 Ask me about what you want;
+
 📫 How to reach me: savio.riccardo95@gmail.com;
+
 
 <!--
 **MawiDev/MawiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
