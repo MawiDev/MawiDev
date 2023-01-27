@@ -8,8 +8,6 @@ I'm web developer!
 
 👯 I’m looking to collaborate on everyone devs;
 
-🤔 I’m looking for help with who needed;
-
 💬 Ask me about what you want;
 
 📫 How to reach me: savio.riccardo95@gmail.com;
