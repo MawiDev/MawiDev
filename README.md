@@ -2,7 +2,7 @@
 
 I'm web developer!
 
-🌱 I’m currently learning -> Laravel & React Js;
+🌱 I’m currently learning -> React Js;
 
 🔭 I’m currently working on varius website and web Applications, like freelance;
 
