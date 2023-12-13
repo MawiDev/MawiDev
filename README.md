@@ -8,7 +8,7 @@ I'm web developer!
 
 📫 How to reach me: [riccardosavio.dev](https://riccardosavio.dev/contact);
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MawiDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MawiDev)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MawiDev/MawiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
