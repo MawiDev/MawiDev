@@ -6,7 +6,7 @@ I'm web developer!
 
 🔭 I’m currently working on varius website and web Applications, like freelance;
 
-📫 How to reach me: [riccardosavio.dev](https://riccardosavio.dev/contact);
+📫 How to reach me: [riccardosavio.dev](https://riccardosavio.dev);
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MawiDev&layout=compact)
 
