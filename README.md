@@ -1,8 +1,8 @@
 ### Hi i'm Mawi 👋
 
-I'm web developer!
+I'm developer!
 
-🌱 I’m currently learning -> React Js and Laravel;
+🌱 I’m currently learning -> Java Android & fullstack web developer (Laravel, React);
 
 🔭 I’m currently working on varius website and web Applications, like freelance;
 
