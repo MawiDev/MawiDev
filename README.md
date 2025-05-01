@@ -1,7 +1,3 @@
-### Hi i'm Mawi 👋
-
-📫 How to reach me: [riccardosavio.dev](https://riccardosavio.dev);
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MawiDev&layout=compact)
 
 <!--
