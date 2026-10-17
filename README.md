@@ -25,7 +25,7 @@ $ ls ~/tech-stack
 
 <!-- Edit the list after "i=" — full list of icons: https://skillicons.dev -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,bun,html,css,php,laravel,python,kotlin,androidstudio,git,github,vscode&perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,bun,html,css,php,laravel,kotlin,androidstudio,git,vscode&perline=8" alt="tech stack" />
 </p>
 
 <p align="left">
