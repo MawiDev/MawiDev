@@ -38,7 +38,7 @@ $ cat /etc/servers-and-security
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,nginx,docker,mysql,postgres,redis,cloudflare&perline=14" alt="servers" />
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,nginx,docker,mysql,postgres,redis,cloudflare,ipfs&perline=14" alt="servers" />
   <img src="https://cdn.simpleicons.org/torproject" height="48" alt="Tor" />
   <img src="https://cdn.simpleicons.org/wireguard" height="48" alt="WireGuard" />
 </p>
